@@ -1,5 +1,5 @@
 from pyspark import SparkContext, SparkConf
 
-class Get_Report:
+class ChronicDiseaseReport:
     def __init__(self):
         pass
