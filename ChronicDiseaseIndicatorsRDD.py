@@ -3,7 +3,6 @@ import sys
 from pyspark import SparkConf, SparkContext
 import time
 
-
 def main(file_name: str) -> None:
 
     spark_conf = SparkConf()
@@ -38,7 +37,7 @@ def main(file_name: str) -> None:
 
 if __name__ == "__main__":
     """
-    Python program that uses Apache Spark to find Spanish airports
+    Python program that uses Apache Spark to find 
     """
 
     if len(sys.argv) != 2:
