@@ -1,1 +1,13 @@
+Javier Moreno Venegas
+María del Rocío Cabello Toscano
+Juan Antonio Jiménez Guerrero
 
+Los ficheros '.py',ChronicDiseaseIndicatorsDF.py y ChronicDiseaseIndicatorsRDD.py, contienen el código que realiza la lectura
+de un 'dataset'* con información sobre los indicadores de enfermedades crónicas y su procesamiento y almacenaje según criterios 
+como el año o la enfermedad.  
+Además, el fichero tarea8.ipynb, es un 'notebook' de jupyter que contiene el código de los ficheros y algún breve comentario.
+Importante! -> El dataset que se ejecuta en el codigo del notebook deberá estar en la misma carpeta del mismo y deberá llamarse 
+"datos.csv"
+
+* El dataset no se adjunta en este repositorio debido a que su tamaño excede el permitido (100MB), pero se puede obtener desde:
+https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi
